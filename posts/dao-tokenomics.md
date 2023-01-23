@@ -19,8 +19,8 @@ One fascinating approach to governance combines publicly available data and on-c
 Although this method worked very smoothly initially, there are still some nuances with the emission structure. Similar to other protocols within crypto, or more recently referred to as web 3, vesting arrangements are concise, and founders can cash out at these given intervals - 6 mo, 1 yr, 2yr, etc. I do not believe this protocol and the founders are playing a short-term game; however, many token holders and market participants maintain a merited, wary sentiment based on previous experience. (getting rugged!)
 
 
-![LooksRare Tradeable Tokens: Emissions Rate](images/looksrare-token-release.png)
-LooksRare Tradeable Tokens: Emissions Rate
+![LooksRare Tradeable Tokens: Emissions Rate](./images/looksrare-token-release.png)
+> LooksRare Tradeable Tokens: Emissions Rate
 
 **Ethereum Name Service (ENS):**
 
@@ -33,8 +33,8 @@ The most popular naming service on Ethereum decided to reward its earliest commu
 ENS performed this airdrop strategy retroactively, eliminating profit-seekers trying to "game the system" once they understood the criteria. This retroactive strategy ensures governance falls with the early adopters who used the protocol for its technological capabilities and potential rather than for a quick profit. The $ENS tokens airdropped allows for a vote in governance proposals and a way to delegate your vote(s) to a community member you trust.
 
 
-[Ethereum Name Service Emissions](../public/images/ens-emissions.png)
-Ethereum Name Service Emissions
+[Ethereum Name Service Emissions](./images/ens-emissions.png)
+> Ethereum Name Service Emissions
 
 ### Non Fungible Token Models
 
@@ -49,8 +49,8 @@ The value of holding a Collectooors NFT by IndexCoop lies in the voting rights. 
 Nouns DAO provides an example of the power and flexibility behind NFT governance. One noun is raffled daily, with 100% of the proceeds going into the treasury. The current treasury sits at ~28,000 eth or $35 million—those holding the Nouns NFT vote on future governance proposals and decide how to allocate the treasury. The Nouns NFT holders engage with all parts of the DAO - from branding to treasury management - via a token-gated voting mechanism.
 
 
-[Example of executed Nouns DAO proposal](public/images/nounsdao-governance-example.png)
-Example of executed Nouns DAO proposal
+[Example of executed Nouns DAO proposal](./images/nounsdao-governance-example.png)
+> Example of executed Nouns DAO proposal
 
 **On Chain Participation**
 
@@ -64,8 +64,8 @@ In June 2022, Arbitrum announced a series of tasks that would reward those who c
 
 
 
-[Week 1 Statistics from the Arbitrum Odyssey](/public/images/arbitrum-odyssey-dune.png)
-Week 1 Statistics from the Arbitrum Odyssey
+[Week 1 Statistics from the Arbitrum Odyssey](./images/arbitrum-odyssey-dune.png)
+> Week 1 Statistics from the Arbitrum Odyssey
 
 **Combination and Interoperability**
 
