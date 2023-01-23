@@ -1,18 +1,42 @@
+import Image from "next/image"
+import Link from "next/link"
 import './globals.css'
+ 
 
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
+
+  const header = (
+    <header>
+      <div className="font-bold text-center bg-slate-800 p-8 my-6 rounded-lg">
+        <Image src="/logo.png" width={40} height={40} className='mx-auto'/>
+      <Link href="/"><h1 className="font-bold text-white text-2xl mt-4">Max's Blog</h1></Link>
+        <p className="text-slate-200">Welcome to my random thoughts.</p>
+      </div>
+    </header>
+  )
+
+const footer = (
+  <footer>
+    <div className="border-t text-center text-slate-500 border-slate-600 mt-12 py-6">
+      <p>Developed by Max</p>
+    </div>
+  </footer>
+)
+
   return (
-    <html lang="en">
-      {/*
-        <head /> will contain the components returned by the nearest parent
-        head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
-      */}
+    <html>
       <head />
-      <body>{children}</body>
+        <body>
+            <div className="mx-auto max-w-3xl px-6">
+              {header}
+              {children}
+              {footer}
+            </div>
+        </body>
     </html>
   )
 }
