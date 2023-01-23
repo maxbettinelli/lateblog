@@ -19,7 +19,7 @@ One fascinating approach to governance combines publicly available data and on-c
 Although this method worked very smoothly initially, there are still some nuances with the emission structure. Similar to other protocols within crypto, or more recently referred to as web 3, vesting arrangements are concise, and founders can cash out at these given intervals - 6 mo, 1 yr, 2yr, etc. I do not believe this protocol and the founders are playing a short-term game; however, many token holders and market participants maintain a merited, wary sentiment based on previous experience. (getting rugged!)
 
 
-![LooksRare Tradeable Tokens: Emissions Rate](/public/images/looksrare-token-release.png)
+![LooksRare Tradeable Tokens: Emissions Rate](images/looksrare-token-release.png)
 LooksRare Tradeable Tokens: Emissions Rate
 
 **Ethereum Name Service (ENS):**
