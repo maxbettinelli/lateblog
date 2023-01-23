@@ -67,7 +67,7 @@ In June 2022, Arbitrum announced a series of tasks that would reward those who c
 
 
 
-[Week 1 Statistics from the Arbitrum Odyssey](./public/images/arbitrum-odyssey-dune.png)
+[Week 1 Statistics from the Arbitrum Odyssey](/public/images/arbitrum-odyssey-dune.png)
 
 > Week 1 Statistics from the Arbitrum Odyssey
 
