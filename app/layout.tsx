@@ -12,7 +12,7 @@ export default function RootLayout({
   const header = (
     <header>
       <div className="font-bold text-center bg-slate-800 p-8 my-6 rounded-lg">
-        <Image src="/logo.png" width={40} height={40} className='mx-auto'/>
+        <Image src="/logo.png" width={40} height={40} alt='' className='mx-auto'/>
       <Link href="/"><h1 className="font-bold text-white text-2xl mt-4">Max's Blog</h1></Link>
         <p className="text-slate-200">Welcome to my random thoughts.</p>
       </div>
