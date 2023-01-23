@@ -3,11 +3,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Tech Stack
 
 For this project I used 
-- React
--NextJS 13
--Tailwind CSS
--Vercel
--Git
+### React
+### NextJS 13
+### Tailwind CSS
+### Vercel
+### Git
 
 ## A little blog
 
