@@ -96,7 +96,6 @@ Some direct perks and activities include:
 2. Transparent on-chain governance decisions are publicly available for all current and future students, supporters, and community members, including the freedom to modify internal team structure.
 3. Continuing to propagate education for all members and providing support (both internal and external) for students to define their role(s) uniquely and gain educational and financial support
 
-![A project and education focused DAO](public\images\mustang-dao.jpg)
 A project and education focused DAO
 
 ## Next Steps:
