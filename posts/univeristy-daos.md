@@ -90,7 +90,7 @@ Taking action(s) outside campus require thorough and strict planning schedules. 
 
 **Blockchain @ Cal Poly, the student-organized and led club, focuses on providing blockchain education for all students and members. Our club members continue to participate and place in hackathons, travel internationally for crypto conference(s), and work on innovative projects. To expand in a crypto-native way and provide the most opportunity for our club members, alumni, and supporters, we are proud to announce the launch of Mustang DAO.**
 
-1[Mustang DAO](./public/images/mustang-dao.jpg)
+![Mustang DAO](https://github.com/maxbettinelli/lateblog/blob/main/public/images/mustang-dao.jpg?raw=true)
 
 Some direct perks and activities include:
 
