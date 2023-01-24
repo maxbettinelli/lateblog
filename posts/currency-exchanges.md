@@ -1,6 +1,6 @@
 ---
-title: "The Decline of Currency Exchanges"
-subtitle: "A look into how extractive currency exchanges are, and why this will end soon."
+title: "Coming Soon: Currency Exchanges"
+subtitle: "A look into how extractive - and outdated - currency exchanges are... and why they will soon cease to exist"
 date: "2023-01-23"
 ---
 
