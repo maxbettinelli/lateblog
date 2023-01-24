@@ -51,7 +51,7 @@ The value of holding a Collectooors NFT by IndexCoop lies in the voting rights. 
 Nouns DAO provides an example of the power and flexibility behind NFT governance. One noun is raffled daily, with 100% of the proceeds going into the treasury. The current treasury sits at ~28,000 eth or $35 million—those holding the Nouns NFT vote on future governance proposals and decide how to allocate the treasury. The Nouns NFT holders engage with all parts of the DAO - from branding to treasury management - via a token-gated voting mechanism.
 
 
-[Example of executed Nouns DAO proposal](https://github.com/maxbettinelli/lateblog/blob/main/public/images/nounsdao-governance-example.png?raw=true)
+![Example of executed Nouns DAO proposal](https://github.com/maxbettinelli/lateblog/blob/main/public/images/nounsdao-governance-example.png?raw=true)
 
 > Example of executed Nouns DAO proposal
 
@@ -67,7 +67,7 @@ In June 2022, Arbitrum announced a series of tasks that would reward those who c
 
 
 
-[Week 1 Statistics from the Arbitrum Odyssey](https://github.com/maxbettinelli/lateblog/blob/main/public/images/arbitrum-odyssey-dune.png?raw=true)
+![Week 1 Statistics from the Arbitrum Odyssey](https://github.com/maxbettinelli/lateblog/blob/main/public/images/arbitrum-odyssey-dune.png?raw=true)
 
 > Week 1 Statistics from the Arbitrum Odyssey
 
