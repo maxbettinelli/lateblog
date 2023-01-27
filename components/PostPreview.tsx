@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 function PostPreview(props: PostMetadata) {
   return (
-    <div className='border border-red-200 p-6 rounded-lg shadow-lg bg-white' >
+    <div className='border border-red-300 p-6 rounded-lg shadow-lg bg-slate-50 hover:bg-red-50 transition duration-300' >
         <p className='text-xs text-slate-400 mb-4'>{props.date}</p>
 
         <Link href={`/posts/${props.slug}`}>
