@@ -6,4 +6,3 @@ date: "2023-01-23"
 
 ## Coming Soon
 
-**Very excited to write this one**
